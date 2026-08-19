@@ -7,6 +7,7 @@ import SongsSection from "./components/SongsSection.js";
 import LoveLetters from "./components/LoveLetters.js";
 import FloatingHearts from "./components/FloatingHearts.js";
 import DateBadge from "./components/DateBadge.js";
+import TimeSinceCounter from "./components/TimeSinceCounter.js";
 
 export default function Home() {
   const featuredPhoto = content.photos?.[0];
@@ -81,6 +82,8 @@ export default function Home() {
         >
           {content.heroSubtitle}
         </motion.p>
+
+        <TimeSinceCounter since={content.metDate} label="احنا مع بعض من" />
 
         {hasPhotos && featuredPhoto ? (
           <motion.div
