@@ -58,7 +58,6 @@ const content = {
     { src: "/images/photo-21.jpg", caption: "" },
     { src: "/images/photo-22.jpg", caption: "" },
     { src: "/images/photo-23.jpg", caption: "" },
-    { src: "/images/photo-24.jpg", caption: "" }
   ],
 
   // الفيديوهات - سيب المصفوفة فاضية [] لو مش عايز القسم يظهر
