@@ -107,7 +107,8 @@ export default function LoveLetters({ groups, signature }) {
             fontFamily: "Aref Ruqaa, serif",
             fontSize: "1.4rem",
             color: "var(--gold-soft)",
-            textAlign: "left"
+            textAlign: "left",
+            whiteSpace: "pre-line"
           }}
         >
           — {signature}
