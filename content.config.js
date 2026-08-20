@@ -30,11 +30,43 @@ const content = {
   ],
 
   // الصور - سيب المصفوفة فاضية لو مش عايز قسم الصور يظهر خالص
+  // عشان تضيف صورة جديدة: حط الملف جوه public/images/ وضيف سطر بنفس الشكل ده
+  // src: اسم/مسار الصورة جوه public/images  |  caption: التعليق تحتها (اختياري - سيبه "" لو مفيش)
   photos: [
     { src: "/images/tinkerbell.jpeg", caption: "حاولت أجيب شخصية كارتونية تكون حلوة شبهك ف لقيتك شبه تنة ورنة" },
     { src: "/images/rapunzel.jpeg", caption: "و روبانزل علفكرا حلوة و شبهك اوي" },
     { src: "/images/ratatouille.jpg", caption: "عرفت انك بتحبيه قولت أجبهولك معانا😂" },
-    { src: "/images/buzz.png", caption: "انا بحبه زيك بردو💖" }
+    { src: "/images/buzz.png", caption: "انا بحبه زيك بردو💖" },
+
+    // ⬇️ ضيف الصور الجديدة هنا بنفس الشكل ده (كرر السطر لكل صورة)
+    { src: "/images/photo-5.jpg", caption: "" },
+    { src: "/images/photo-6.jpg", caption: "" },
+    { src: "/images/photo-7.jpg", caption: "" },
+    { src: "/images/photo-8.jpg", caption: "" },
+    { src: "/images/photo-9.jpg", caption: "" },
+    { src: "/images/photo-10.jpg", caption: "" },
+    { src: "/images/photo-11.jpg", caption: "" },
+    { src: "/images/photo-12.jpg", caption: "" },
+    { src: "/images/photo-13.jpg", caption: "" },
+    { src: "/images/photo-14.jpg", caption: "" },
+    { src: "/images/photo-15.jpg", caption: "" },
+    { src: "/images/photo-16.jpg", caption: "" },
+    { src: "/images/photo-17.jpg", caption: "" },
+    { src: "/images/photo-18.jpg", caption: "" },
+    { src: "/images/photo-19.jpg", caption: "" },
+    { src: "/images/photo-20.jpg", caption: "" },
+    { src: "/images/photo-21.jpg", caption: "" },
+    { src: "/images/photo-22.jpg", caption: "" },
+    { src: "/images/photo-23.jpg", caption: "" },
+    { src: "/images/photo-24.jpg", caption: "" }
+  ],
+
+  // الفيديوهات - سيب المصفوفة فاضية [] لو مش عايز القسم يظهر
+  // حط ملف الفيديو جوه public/video/ وضيف سطر بنفس الشكل ده لكل فيديو
+  // src: مسار الفيديو جوه public/video  |  caption: التعليق تحته (اختياري - سيبه "" لو مفيش)
+  videos: [
+    { src: "/video/video-1.mp4", caption: "" },
+    { src: "/video/video-2.mp4", caption: "" }
   ],
 
   // الأغاني - تقدر تحط أغنية واحدة أو أكتر، كل واحدة هتتعرض بمشغلها الخاص
@@ -75,7 +107,7 @@ const content = {
   ],
 
   // توقيع في آخر الموقع
-  signature: "مني"
+  signature: "محمد"
 };
 
 export default content;
