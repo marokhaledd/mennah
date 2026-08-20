@@ -106,8 +106,7 @@ const content = {
   ],
 
   // توقيع في آخر الموقع
-  signature: "اهداء من حبيبك
-حمود"
+  signature: "اهداء من حبيبك\nحمود"
 };
 
 export default content;
