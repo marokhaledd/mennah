@@ -71,12 +71,12 @@ const content = {
   // الأغاني - تقدر تحط أغنية واحدة أو أكتر، كل واحدة هتتعرض بمشغلها الخاص
   songs: [
     {
-      src: "/audio/song-1.mp3",
+      src: "/audio/Albumaty.Com_wail_gsar_hlm_hyati_-_mn_fylm_twam_hyaty.mp3",
       title: "الأغنية الأولى",
       artist: "وائل جسار"
     },
     {
-      src: "/audio/song-2.mp3",
+      src: "/audio/Albumaty.Com_angham_khlyny_shwyt_maak.mp3",
       title: "الأغنية التانية",
       artist: "انغام"
     }
