@@ -66,7 +66,7 @@ const content = {
   // src: مسار الفيديو جوه public/video  |  caption: التعليق تحته (اختياري - سيبه "" لو مفيش)
   videos: [
     { src: "/video/WhatsApp Video 2026-08-20 at 3.37.23 AM.mp4", caption: "" },
-    { src: "/video/video-2.mp4", caption: "" }
+    { src: "/video/WhatsApp Video 2026-08-20 at 3.37.39 AM.mp4", caption: "" }
   ],
 
   // الأغاني - تقدر تحط أغنية واحدة أو أكتر، كل واحدة هتتعرض بمشغلها الخاص
