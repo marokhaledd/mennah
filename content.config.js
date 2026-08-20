@@ -11,7 +11,7 @@ const content = {
   passwordHint: "الباسورد عيد ميلادي",
 
   // اسمها / الدلع اللي هيظهر في صفحة القفل والعنوان
-  recipientName: "منمن",
+  recipientName: "💖منمن",
 
   // العنوان الرئيسي بعد فتح الموقع
   heroTitle: "كل سنة وانتي طيبة يا منمن 🎂",
@@ -30,7 +30,12 @@ const content = {
   ],
 
   // الصور - سيب المصفوفة فاضية لو مش عايز قسم الصور يظهر خالص
-  photos: [],
+  photos: [
+    { src: "/images/tinkerbell.jpeg", caption: "حاولت أجيب شخصية كارتونية تكون حلوة شبهك ف لقيتك شبه تنة ورنة" },
+    { src: "/images/rapunzel.jpeg", caption: "و روبانزل تحتها علفكرا حلوة و شبهك اوي" },
+    { src: "/images/ratatouille.jpg", caption: "الفار الطباخ تحته عرفت انك بتحبيه قولت أجبهولك معانا😂" },
+    { src: "/images/buzz.png", caption: "باظ يطير تحته انا بحبه زيك بردو💖" }
+  ],
 
   // الأغاني - تقدر تحط أغنية واحدة أو أكتر، كل واحدة هتتعرض بمشغلها الخاص
   songs: [
@@ -70,7 +75,7 @@ const content = {
   ],
 
   // توقيع في آخر الموقع
-  signature: "محمد"
+  signature: "مني"
 };
 
 export default content;
