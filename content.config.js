@@ -32,9 +32,9 @@ const content = {
   // الصور - سيب المصفوفة فاضية لو مش عايز قسم الصور يظهر خالص
   photos: [
     { src: "/images/tinkerbell.jpeg", caption: "حاولت أجيب شخصية كارتونية تكون حلوة شبهك ف لقيتك شبه تنة ورنة" },
-    { src: "/images/rapunzel.jpeg", caption: "و روبانزل تحتها علفكرا حلوة و شبهك اوي" },
-    { src: "/images/ratatouille.jpg", caption: "الفار الطباخ تحته عرفت انك بتحبيه قولت أجبهولك معانا😂" },
-    { src: "/images/buzz.png", caption: "باظ يطير تحته انا بحبه زيك بردو💖" }
+    { src: "/images/rapunzel.jpeg", caption: "و روبانزل علفكرا حلوة و شبهك اوي" },
+    { src: "/images/ratatouille.jpg", caption: "عرفت انك بتحبيه قولت أجبهولك معانا😂" },
+    { src: "/images/buzz.png", caption: "انا بحبه زيك بردو💖" }
   ],
 
   // الأغاني - تقدر تحط أغنية واحدة أو أكتر، كل واحدة هتتعرض بمشغلها الخاص
