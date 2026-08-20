@@ -73,12 +73,12 @@ const content = {
     {
       src: "/audio/song-1.mp3",
       title: "الأغنية الأولى",
-      artist: "اسم المغني"
+      artist: "وائل جسار"
     },
     {
       src: "/audio/song-2.mp3",
       title: "الأغنية التانية",
-      artist: "اسم المغني"
+      artist: "انغام"
     }
   ],
 
