@@ -39,33 +39,33 @@ const content = {
     { src: "/images/buzz.png", caption: "انا بحبه زيك بردو💖" },
 
     // ⬇️ ضيف الصور الجديدة هنا بنفس الشكل ده (كرر السطر لكل صورة)
-    { src: "/images/photo-5.jpg", caption: "" },
-    { src: "/images/photo-6.jpg", caption: "" },
-    { src: "/images/photo-7.jpg", caption: "" },
-    { src: "/images/photo-8.jpg", caption: "" },
-    { src: "/images/photo-9.jpg", caption: "" },
-    { src: "/images/photo-10.jpg", caption: "" },
-    { src: "/images/photo-11.jpg", caption: "" },
-    { src: "/images/photo-12.jpg", caption: "" },
-    { src: "/images/photo-13.jpg", caption: "" },
-    { src: "/images/photo-14.jpg", caption: "" },
-    { src: "/images/photo-15.jpg", caption: "" },
-    { src: "/images/photo-16.jpg", caption: "" },
-    { src: "/images/photo-17.jpg", caption: "" },
-    { src: "/images/photo-18.jpg", caption: "" },
-    { src: "/images/photo-19.jpg", caption: "" },
-    { src: "/images/photo-20.jpg", caption: "" },
-    { src: "/images/photo-21.jpg", caption: "" },
-    { src: "/images/photo-22.jpg", caption: "" },
-    { src: "/images/photo-23.jpg", caption: "" },
+    { src: "/images/photo-5.jpg", caption: "أول صورة بينا 💖" },
+    { src: "/images/photo-6.jpg", caption: "كنتي اول مرة تلبسي الجيبة ونا اتبسط وقتها لما شوفتها" },
+    { src: "/images/photo-7.jpg", caption: "كان طعمها حلو اوي😂💖" },
+    { src: "/images/photo-8.jpg", caption: "كنا لسا بنتعرف علي بعض وكنت زعلان إني مكنتش معاكي😂" },
+    { src: "/images/photo-9.jpg", caption: "كان يوم حلو اوي💖" },
+    { src: "/images/photo-10.jpg", caption: "بالله دا ما انت ازاي .. فاكرة 😂" },
+    { src: "/images/photo-11.jpg", caption: "صورة بحبها اوي💖" },
+    { src: "/images/photo-12.jpg", caption: "كان يوم متعب بس كان حلو بكل تفاصيله💖" },
+    { src: "/images/photo-13.jpg", caption: "يوم ما كنت بقدم في مستشفي أندلسية المعادي كنت مبسوط انك معايا 💖" },
+    { src: "/images/photo-14.jpg", caption: "عسل والله يا منتي🍒💖" },
+    { src: "/images/photo-15.jpg", caption: "دا لوجو الميدالية اللي اختارته 💖" },
+    { src: "/images/photo-16.jpg", caption: "يوم ما كنا بنجيب ليكي الشنطة البيضا والكوتشي الابيض 💖" },
+    { src: "/images/photo-17.jpg", caption: "أحلي إندومي كلته ف حياته و أول مرة أكله أصلا😂💖" },
+    { src: "/images/photo-18.jpg", caption: "جوزك بطل سندال وكفاءة😉" },
+    { src: "/images/photo-19.jpg", caption: "عم العالم باشا البلد😂💖" },
+    { src: "/images/photo-20.jpg", caption: "ما بين كل دول اختارتك نتي🍒💖" },
+    { src: "/images/photo-21.jpg", caption: "اليوم دا من أحلي الايام اللي خرجنا فيها سوا💖" },
+    { src: "/images/photo-22.jpg", caption: "من يوم ملبستها ونا مبسوط و اتفتحلي باب رزق جديد💖" },
+    { src: "/images/photo-23.jpg", caption: "واثق من نفسي اكيد ومش هخذلك وهوصل لكل أحلامي☝🏻" },
   ],
 
   // الفيديوهات - سيب المصفوفة فاضية [] لو مش عايز القسم يظهر
   // حط ملف الفيديو جوه public/video/ وضيف سطر بنفس الشكل ده لكل فيديو
   // src: مسار الفيديو جوه public/video  |  caption: التعليق تحته (اختياري - سيبه "" لو مفيش)
   videos: [
-    { src: "/video/video-1.mp4.mp4", caption: "" },
-    { src: "/video/video-2.mp4.mp4", caption: "" }
+    { src: "/video/video-1.mp4.mp4", caption: "دا اول عيد بينا ومش هيكون ٱخر عيد بينا يا منتي💖🍒" },
+    { src: "/video/video-2.mp4.mp4", caption: "جزء بسيط من وقتي المفضل مع شخصي المفضل💖🍒" }
   ],
 
   // الأغاني - تقدر تحط أغنية واحدة أو أكتر، كل واحدة هتتعرض بمشغلها الخاص
