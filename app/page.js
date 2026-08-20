@@ -3,6 +3,7 @@
 import { motion } from "framer-motion";
 import content from "../content.config.js";
 import PhotoGallery from "./components/PhotoGallery.js";
+import VideosSection from "./components/VideosSection.js";
 import SongsSection from "./components/SongsSection.js";
 import LoveLetters from "./components/LoveLetters.js";
 import FloatingHearts from "./components/FloatingHearts.js";
@@ -133,6 +134,7 @@ export default function Home() {
       </section>
 
       {hasPhotos ? <PhotoGallery photos={content.photos} /> : null}
+      <VideosSection videos={content.videos} />
       <SongsSection songs={content.songs} />
       <LoveLetters groups={content.loveLetterGroups} signature={content.signature} />
 
