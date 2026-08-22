@@ -84,7 +84,12 @@ export default function Home() {
           {content.heroSubtitle}
         </motion.p>
 
-        <TimeSinceCounter since={content.metDate} label="احنا مع بعض من" />
+        <TimeSinceCounter
+          since={content.metDate}
+          label="احنا مع بعض من"
+          topLabel="بداية عمري الحقيقي💖"
+          topDate={content.metDate}
+        />
 
         {hasPhotos && featuredPhoto ? (
           <motion.div
