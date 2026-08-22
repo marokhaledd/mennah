@@ -60,16 +60,16 @@ const content = {
     { src: "/images/photo-23.jpg", caption: "واثق من نفسي اكيد ومش هخذلك وهوصل لكل أحلامي☝🏻" },
 
     // ⬇️ صور جديدة اتضافت - الكابشن سايبه فاضي عشان تكتبيه انتي
-    { src: "/images/photo-24.jpg", caption: "" },
-    { src: "/images/photo-25.jpg", caption: "" },
-    { src: "/images/photo-26.jpg", caption: "" },
-    { src: "/images/photo-27.jpg", caption: "" },
-    { src: "/images/photo-28.jpg", caption: "" },
-    { src: "/images/photo-29.jpg", caption: "" },
-    { src: "/images/photo-30.jpg", caption: "" },
-    { src: "/images/photo-31.jpg", caption: "" },
-    { src: "/images/photo-32.jpg", caption: "" },
-    { src: "/images/photo-33.jpg", caption: "" },
+    { src: "/images/photo-24.jpg", caption: "بحبك💖🍒🫂" },
+    { src: "/images/photo-25.jpg", caption: "مش ٱخر عيد بينا يا منمن🥹💖🍒" },
+    { src: "/images/photo-26.jpg", caption: "معايا قمر بسم الله ما شاء الله عليه💖🫂" },
+    { src: "/images/photo-27.jpg", caption: "يوم ما كنا بنجيب الكروكس للشغل الجديد😂💖" },
+    { src: "/images/photo-28.jpg", caption: "عشان حبيتيها حطيتها تاني ليكي😉💖" },
+    { src: "/images/photo-29.jpg", caption: "وفعلا اتغيرت واحلويت لما عرفتك 💖" },
+    { src: "/images/photo-30.jpg", caption: "حبيت الحب بسببك💖" },
+    { src: "/images/photo-31.jpg", caption: "دا يوم ما كنت بقدم ف المعادي وخلصنا اليوم بخروجة حلوة💖" },
+    { src: "/images/photo-32.jpg", caption: "لايقين علي بعض يا منمن😉🍒" },
+    { src: "/images/photo-33.jpg", caption: "كان يوم طويل ومتعب بس حلو بكل تفاصيله💖" },
   ],
 
   // الفيديوهات - سيب المصفوفة فاضية [] لو مش عايز القسم يظهر
