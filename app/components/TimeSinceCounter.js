@@ -10,7 +10,7 @@ function parseDate(str) {
   return new Date(Number(y), Number(m) - 1, Number(d));
 }
 
-export default function TimeSinceCounter({ since, label }) {
+export default function TimeSinceCounter({ since, label, topLabel, topDate }) {
   const [elapsed, setElapsed] = useState(null);
 
   useEffect(() => {
@@ -49,6 +49,27 @@ export default function TimeSinceCounter({ since, label }) {
       transition={{ duration: 0.8, delay: 0.55 }}
       style={{ textAlign: "center", zIndex: 1 }}
     >
+      {topLabel ? (
+        <p
+          className="letter-text"
+          style={{
+            color: "var(--cream)",
+            fontFamily: "Aref Ruqaa, serif",
+            fontWeight: 700,
+            fontSize: "1.1rem",
+            marginBottom: 2,
+            textShadow: "0 0 12px rgba(255, 95, 162, 0.55)"
+          }}
+        >
+          {topLabel}
+          {topDate ? (
+            <span style={{ display: "block", fontSize: "0.85rem", fontStyle: "italic", color: "var(--gold-soft)", marginTop: 4, opacity: 0.9 }}>
+              {topDate}
+            </span>
+          ) : null}
+        </p>
+      ) : null}
+
       {label ? (
         <p
           className="letter-text"
