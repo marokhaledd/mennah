@@ -58,6 +58,18 @@ const content = {
     { src: "/images/photo-21.jpg", caption: "اليوم دا من أحلي الايام اللي خرجنا فيها سوا💖" },
     { src: "/images/photo-22.jpg", caption: "من يوم ملبستها ونا مبسوط و اتفتحلي باب رزق جديد💖" },
     { src: "/images/photo-23.jpg", caption: "واثق من نفسي اكيد ومش هخذلك وهوصل لكل أحلامي☝🏻" },
+
+    // ⬇️ صور جديدة اتضافت - الكابشن سايبه فاضي عشان تكتبيه انتي
+    { src: "/images/photo-24.jpg", caption: "" },
+    { src: "/images/photo-25.jpg", caption: "" },
+    { src: "/images/photo-26.jpg", caption: "" },
+    { src: "/images/photo-27.jpg", caption: "" },
+    { src: "/images/photo-28.jpg", caption: "" },
+    { src: "/images/photo-29.jpg", caption: "" },
+    { src: "/images/photo-30.jpg", caption: "" },
+    { src: "/images/photo-31.jpg", caption: "" },
+    { src: "/images/photo-32.jpg", caption: "" },
+    { src: "/images/photo-33.jpg", caption: "" },
   ],
 
   // الفيديوهات - سيب المصفوفة فاضية [] لو مش عايز القسم يظهر
