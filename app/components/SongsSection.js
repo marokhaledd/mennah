@@ -16,7 +16,7 @@ export default function SongsSection({ songs }) {
           marginBottom: 36
         }}
       >
-        {songs.length > 1 ? "أغانينا" : "أغنيتنا"}
+        {songs.length > 1 ? "اغانيكي المفضلة🎧💖" : "أغنيتنا"}
       </h2>
 
       <div
